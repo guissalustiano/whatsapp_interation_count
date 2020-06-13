@@ -1,7 +1,5 @@
 import re
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 
 def removeIfContain(remove_value, values):
